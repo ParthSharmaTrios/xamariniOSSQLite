@@ -1,0 +1,11 @@
+/Users/parthraisharma/Projects/dbTest/dbTest/bin/iPhoneSimulator/Debug/dbTest.exe
+/Users/parthraisharma/Projects/dbTest/dbTest/bin/iPhoneSimulator/Debug/dbTest.pdb
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/dbTest.csproj.CoreCompileInputs.cache
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/dbTest.exe
+/Users/parthraisharma/Projects/dbTest/dbTest/obj/iPhoneSimulator/Debug/dbTest.pdb

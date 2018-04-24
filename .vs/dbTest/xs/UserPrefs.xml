@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{77CBA460-AC49-4B29-984B-4732A9B4CBAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dbTest/ContactsTableViewController.cs">
+    <Files>
+      <File FileName="dbTest/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="dbTest/Main.storyboard" />
+      <File FileName="dbTest/Contact.cs" Line="14" Column="27" />
+      <File FileName="dbTest/ViewController.cs" Line="40" Column="1" />
+      <File FileName="dbTest/ContactsTableViewController.cs" Line="26" Column="18" />
+      <File FileName="dbTest/Main.cs" Line="12" Column="1" />
+      <File FileName="dbTest/ContactsTableViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dbTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ACD268E0-889A-4E2D-803D-86CFB386F020">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.dbTest>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
